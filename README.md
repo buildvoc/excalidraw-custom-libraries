@@ -11,3 +11,6 @@ To use this library click this [link](https://excalidraw.com/?addLibrary=https:/
 #### diagrams from approved documents b1 (fire safety)
 To use this library click this [link](https://excalidraw.com/?addLibrary=https://raw.githubusercontent.com/buildvoc/excalidraw-custom-libraries/main/diagrams-approved-document-library.excalidrawlib)
 ![](https://notes.buildvoc.co.uk/uploads/upload_c9d1c939cd371dd9d5810ef48c4921f5.jpg)
+#### metadata publications
+To use this library click this [link](https://excalidraw.com/?addLibrary=https://raw.githubusercontent.com/buildvoc/excalidraw-custom-libraries/main/metadata-book-section-library.excalidrawlib)
+![](https://notes.buildvoc.co.uk/uploads/upload_97a6168564a7cdc52da528f28060cfe1.jpg)
